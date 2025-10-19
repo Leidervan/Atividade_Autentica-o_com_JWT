@@ -1,0 +1,1 @@
+Foi desenvolvido um módulo de autenticação JWT com middleware de autorização por role, gerenciamento seguro e revogação de refresh tokens, segredo em variável de ambiente, tratamento seguro de erros e rotas protegidas, testado com Thunder Client.
