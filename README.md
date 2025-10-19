@@ -1,1 +1,1 @@
-Foi desenvolvido um módulo de autenticação JWT com middleware de autorização por role, gerenciamento seguro e revogação de refresh tokens, segredo em variável de ambiente, tratamento seguro de erros e rotas protegidas, testado com Thunder Client.
+Antes de baixar, verifique se o Node.js está instalado; se não estiver, instale-o e, após baixar o projeto, execute npm install para instalar as dependências antes de rodar a aplicação.
